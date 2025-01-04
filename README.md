@@ -14,3 +14,4 @@ You can install them using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+if you are intrested in math equations in code ı added that too.
